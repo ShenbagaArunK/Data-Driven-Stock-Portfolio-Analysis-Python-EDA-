@@ -24,7 +24,7 @@ Below are the final datasets extracted, showing the fundamental health and finan
 
 | Top 15 Financial Strong Stocks | Top 15 Fundamental Performing Stocks |
 | :---: | :---: |
-| ![Financial Stats](./Financial_Performance.jpg) | ![Fundamental Stats](./Top_15_Fundamental_Stocks.png) |
+| ![Financial Stats](./Top_15_Financail_Strong_Stocks.png) | ![Fundamental Stats](./Top_15_Fundamental_Stocks.png) |
 
 ---
 
